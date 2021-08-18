@@ -1,1 +1,1 @@
-This is the code base for lab 6 with travis-ci
+A simple Flask app to perform CI/CD on Heraku App Engine
